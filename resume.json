@@ -1,107 +1,111 @@
 {
   "basics": {
-    "name": "Steven Edouard",
-    "label": "Developer Evangelist",
-    "picture": "https://scontent-b-sjc.xx.fbcdn.net/hphotos-prn1/t1.0-9/603953_10151522578258327_946466229_n.jpg ",
-    "email": "steven.edouard1@gmail.com",
-    "website": "http://stevenedouard.com",
-    "summary": "I am a Developer Evangelist for Microsoft. Every day I work to empower individuals to build awesome things. I eventually hope to pursue a role where I can have high impact on a product.",
+    "name": "Kevin Wilson",
+    "label": "Developer",
+    "picture": "http://kwilson.me.uk/blog/wp-content/uploads/2012/05/10862461_10152519482682595_1368890727532591926_o-300x300.jpg",
+    "website": "http://kwilson.me.uk",
+    "summary": "I’m a .NET Developer, JavaScript enthusiast, Android user, sometime musician and sometime cook originally from Kilmarnock, Scotland, but now settled in Glasgow.",
     "location": {
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Glasgow",
+      "countryCode": "GB",
+      "region": "Scotland"
     },
     "profiles": [
       {
-        "network": "Resume Source",
-        "url": "http://github.com/sedouard/resume",
-        "username": "This Resume is built from this Github Repo"
+        "network": "Blog",
+        "url": "http://kwilson.me.uk/blog",
+        "username": "My Blog"
       },
       {
         "network": "Twitter",
-        "username": "sedouard",
-        "url": "http://twitter.com/sedouard"
+        "username": "kwilson81",
+        "url": "http://twitter.com/kwilson81"
       },
       {
         "network": "Github",
-        "username": "sedouard",
-        "url": "https://github.com/sedouard"
+        "username": "kwilson",
+        "url": "https://github.com/kwilson"
       }
     ]
   },
   "work": [
     {
-      "company": "Microsoft",
-      "position": "Developer Evangelist",
-      "website": "http://microsoft.com",
-      "startDate": "2014-03-04",
-      "summary": "Responsible for increasing adoption of Microsoft developer platforms.",
+      "company": "City Facilities Management",
+      "position": "Senior Software Developer",
+      "website": "http://www.city-holdings.co.uk/",
+      "startDate": "2014-11-03",
+      "summary": "Senior developer working on a large-scale Agile greenfield project to create an intelligent system for facilities management.",
       "highlights": [
-        "Created many technical blog posts focusing on cloud and web development with Microsoft tech",
-        "Successfully won Techcrunch Disrupt Hardware Sponsor Award",
-        "Delivered dozens of original technical presentations from high school to pro developers",
-        "Went from 12 to >100 average unique daily website views",
-        "Authored 2 articles on MSDN magazine"
+        "",
+        "AngularJS project built in TypeScript with a .NET back-end.",
+        "Use of BreezeJS for querying and diplaying of large data sets."
       ]
     },
     {
-      "company": "Microsoft",
-      "position": "Software Development Engineer in Test, Common Language Runtime",
-      "website": "http://www.microsoft.com/net",
-      "startDate": "2012-01-22",
-      "endDate": "2014-03-04",
-      "summary": "Responsible for integration, dynamic testing and diagnostics of the Common Language Runtime.",
+      "company": "IBI Group",
+      "position": "Studio Associate/Senior .NET Developer",
+      "website": "http://www.ibigroup.com",
+      "startDate": "2006-05-30",
+      "endDate": "2014-10-31",
+      "summary": "Senior .NET developer, responsible for defining coding standards and architecture principles and mentoring of junior members of the team.",
       "highlights": [
-        "Created innovative test validations and infrastructure for Microsoft .NET Runtime debugger and diagnostics APIs consumed by Visual Studio ",
-        "Extended Visual Studio Test Explorer it to run complex end-to-end scenario tests",
-        "Assisted in customer on-boarding to .NET 4.5.1 by syncing with feature teams to diagnose issues",
-        "Drove product test results and collaborated with various feature teams across .NET to drive validation pass rates"
+        "Development in ASP.NET 2.0-4.5 through Visual Studio 2005-2013 on top of MS SQL.",
+        "Lead development on RequireJS SPA build on top of Node.js.",
+        "Experience in JQuery, Google Maps API, LINQ, Entity Framework (including code first), WCF, Test Driven Development, Agile projects, Geolocation, Oracle data connections from .NET.",
+        "Experience of Provider and Presenter (Inversion of Control) architecture patterns implemented using Castle and LinFu.",
+        "Developed a micro-JS framework for use on a mobile web application.",
+        "Responsible for upkeep of HTML, CSS and accessibility standards.",
+        "Maintainer of continuous integration development environment.",
+        "Worked for four months in early 2012 and again in late 2013 on secondment to head office in Toronto as project technical lead within an Agile team following a Kanban development process."
       ]
     },
     {
-      "company": "Lockheed Martin Mission Systems",
-      "position": "Software Engineer Intern (4 summers)",
-      "website": "http://www.lockheedmartin.com",
-      "startDate": "2008-01-22",
-      "endDate": "2011-08-01",
-      "summary": "Obtained critical experience during college on software development for mission-critical scenarios.",
+      "company": "EuroPC",
+      "position": ".NET Software Developer",
+      "website": "http://www.europc.co.uk/",
+      "startDate": "2004-05-03",
+      "endDate": "2006-05-26",
+      "summary": "Part of the IT department maintaining the company website and developing new software solutions.",
       "highlights": [
-        "Designed system requirements for autonomous underwater vehicle ",
-        "Designed and implemented features on common software for use with multiple vehicles ",
-        "Performed software cost estimates",
-        "Implemented software features for sonar system displays"
+        "Web coding mainly in ASP.NET framework using VB.NET and C# on top of MySql database engine.",
+        "Development of .net web services.",
+        "Creation and maintenance of CSS to W3C specifications.",
+        "User interface design and building using AJAX components.",
+        "Designed and built XML-based marketing software application.",
+        "Rebuilt website in XHTML to comply with WC3 guidelines."
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "TEALS",
-      "position": "Teacher",
-      "website": "http://tealsk12.org",
-      "startDate": "2012-07-01",
-      "endDate": "2013-05-05",
-      "summary": "High school Teacher for an inner-city computer science class.",
+      "company": "Learning + Teaching Scotland",
+      "position": "Junior Developer",
+      "startDate": "2003-06-02",
+      "endDate": "2004-04-30",
+      "summary": "Part of the web development team designing, building and maintaining a variety educational curriculum websites.",
       "highlights": [
-        "Featured in the International New York Times"
+        "All software development within Learning and Teaching Scotland carried out under ISO 9001 quality standards.",
+        "Work included XHTML, CSS, ASP, ASP.NET, XML, Flash and Java and was built to meet accessibility guidelines.",
+        "Creation of XML based Flash applications written in ActionScript 2.0."
+      ]
+    },
+    {
+      "company": "Learning + Teaching Scotland",
+      "position": "Assistant Software Developer / Tester",
+      "startDate": "1999-06-07",
+      "endDate": "2003-05-30",
+      "summary": "Part time work during the course of my degree",
+      "highlights": [
+        "Four years’ business/industrial experience as an Assistant Software Developer / Tester, running in parallel with my University degree.",
+        "Software testing role using formal test strategies on a variety of system/browser platforms."
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Florida",
-      "area": "Computer Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2007-08-01",
-      "endDate": "2011-12-01",
-      "gpa": "3.47"
-    }
-  ],
-  "awards": [
-    {
-      "name": "Visual Studio Team Excellence Light House Award",
-      "date": "2013-04-01",
-      "awarder": "Visual Studio Team - Microsoft",
-      "summary": "Given to member of the Visual Studio team who goes above and beyond their role."
+      "institution": "University of Strathclyde, Glasgow",
+      "area": "Business Information Systems",
+      "studyType": "BSc (Hons)",
+      "startDate": "1999-09-27",
+      "endDate": "2003-05-29"
     }
   ],
   "skills": [
@@ -118,22 +122,6 @@
       "keywords": [
         "javascript",
         "express"
-      ]
-    },
-    {
-      "name": "Cloud Services",
-      "level": "Master",
-      "keywords": [
-        "PaaS",
-        "Storage",
-        "APIs"
-      ]
-    },
-    {
-      "name": "iOS Application Development",
-      "level": "Intermediate",
-      "keywords": [
-        "Objective-C"
       ]
     }
   ],

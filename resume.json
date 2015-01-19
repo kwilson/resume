@@ -12,19 +12,14 @@
     },
     "profiles": [
       {
-        "network": "Blog",
-        "url": "http://kwilson.me.uk/blog",
-        "username": "My Blog"
-      },
-      {
         "network": "Twitter",
         "username": "kwilson81",
-        "url": "http://twitter.com/kwilson81"
+        "url": ""
       },
       {
         "network": "Github",
         "username": "kwilson",
-        "url": "https://github.com/kwilson"
+        "url": ""
       }
     ]
   },
@@ -111,6 +106,7 @@
   "skills": [
     {
       "name": "Back-End",
+      "level": "Advanced",
       "keywords": [
         ".NET Framework 1-4.5",
         "Entity Framework",
@@ -120,6 +116,7 @@
     },
     {
       "name": "Front-End Frameworks",
+      "level": "Advanced",
       "keywords": [
         "JQuery",
         "TypeScript",
@@ -130,7 +127,40 @@
       ]
     },
     {
+      "name": "Testing",
+      "level": "Advanced",
+      "keywords": [
+        "NUnit",
+        "MSTest",
+        "Moq",
+        "Jasmine",
+        "Karma"
+      ]
+    },
+    {
+      "name": "Source Control/Integration",
+      "level": "Advanced",
+      "keywords": [
+        "Git",
+        "Team Foundation Server",
+        "JetBrains TeamCity",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "API Usage",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML5 Geolocation",
+        "Google Maps API",
+        "Facebook API",
+        "Twitter API",
+        "Sentiment"
+      ]
+    },
+    {
       "name": "Database",
+      "level": "Intermediate",
       "keywords": [
         "MS SQL Server",
         "MySQL"

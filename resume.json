@@ -110,18 +110,30 @@
   ],
   "skills": [
     {
-      "name": "C# and .NET",
-      "level": "Master",
+      "name": "Back-End",
       "keywords": [
-        "C#"
+        ".NET Framework 1-4.5",
+        "Entity Framework",
+        "Castle Windsor DI",
+        "Node.js"
       ]
     },
     {
-      "name": "Node.js",
-      "level": "Intermediate",
+      "name": "Front-End Frameworks",
       "keywords": [
-        "javascript",
-        "express"
+        "JQuery",
+        "TypeScript",
+        "AngularJS",
+        "RequireJS",
+        "KnockoutJS",
+        "Web Sockets/Socket.IO"
+      ]
+    },
+    {
+      "name": "Database",
+      "keywords": [
+        "MS SQL Server",
+        "MySQL"
       ]
     }
   ],
